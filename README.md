@@ -1,2 +1,2 @@
 # git_test
-The Odin Project Course
+The Odin Project Course first git repository
